@@ -29,7 +29,7 @@ This repository is a simple example of how to use TypeScript in Deno to create a
 - Clone this repository
 
 ```bash
-git clone
+git clone https://github.com/IamDavidev/Poo_TypeScript__Deno.git
 
 ```
 
